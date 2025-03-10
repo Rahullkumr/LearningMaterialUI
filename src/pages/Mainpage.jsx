@@ -4,7 +4,7 @@ let Mainpage = ()=>{
     } 
     return (
         <>
-        
+        This page will contain all the links to various pages.
         </>
     )
 }
