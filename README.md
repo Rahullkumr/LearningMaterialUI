@@ -1,3 +1,3 @@
 # Learning MUI
 
-MUI + REACT = ❤️
+MUI + REACT
