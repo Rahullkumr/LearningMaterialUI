@@ -1,3 +1,3 @@
 # Learning MUI
 
-MUI + REACT
+REACT and MUI based projects
